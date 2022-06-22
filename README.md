@@ -1,6 +1,6 @@
 ## Machine learning for (meta-)materials design
 
-This is a short introductory course at the undergraduate/first-year graduate level for introduction to machine learning (ML) for (meta-)materials design. 
+This is a short introductory course at the undergraduate/graduate level for introduction to machine learning (ML) for (meta-)materials design. 
 
 
 ### Is this course for you?
