@@ -28,6 +28,9 @@ Additional video lectures from a previous iteration of this course are available
 * https://youtu.be/Z84uQhrNc70
 * https://youtu.be/G6fb162N5ys
 
+### Video lectures?
+Coming soon! :-)
+
 ### Expected workload
 * 4x Session workbooks + exercises: 4x 4 hours
 * 4x Assignments: 4x 4 hours
