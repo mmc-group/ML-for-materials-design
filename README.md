@@ -23,13 +23,13 @@ For each session, workbooks and exercises (including solutions) are provided. In
 
 Jupyter notebooks are primarily used for running the Python codes. Software installation instructions are provided in a separate document.
 
-Additional video lectures from a previous iteration of this course are available at:  
+### Video lectures?
+Coming soon! :-)
+
+Video lectures from a previous iteration of this course are available at:  
 
 * https://youtu.be/Z84uQhrNc70
 * https://youtu.be/G6fb162N5ys
-
-### Video lectures?
-Coming soon! :-)
 
 ### Expected workload
 * 4x Session workbooks + exercises: 4x 4 hours
